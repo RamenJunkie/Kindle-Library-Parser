@@ -1,5 +1,7 @@
 ## Kindle Library Parser
 
+A s cript to reformat a raw list of kindle books into a more usable format for use in library tracking apps such as Library Thing
+
 * Using the list on this page https://read.amazon.com/kindle-library?itemView=row
 * Scroll all the way to the bottom, repeatedly
 * Once you have everything loaded, click and hold on the side near but not on "Notes and Highlights"
